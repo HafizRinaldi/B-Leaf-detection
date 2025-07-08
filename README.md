@@ -1,4 +1,4 @@
-# deteksi_daun_pisang
+# B-Leaf Detection: Banana Leaf Disease Detection Application Using Deep Learning
 
 A new Flutter project.
 
